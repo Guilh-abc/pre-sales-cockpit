@@ -15,7 +15,7 @@ Quando Guilherme anexar um arquivo `PreSales_Cockpit_Sync_*.json` ou `PreSales_C
 ## 3. Publicar
 - Commit + `git push origin main`
 - Se a prática atual do PWA for espelhar Pages: `git push origin main:gh-pages --force`
-- Site: https://guilhermeromio-netto-prog.github.io/pre-sales-cockpit/
+- Site: https://guilh-abc.github.io/pre-sales-cockpit/
 
 ## 4. Espelhar caminhos no Mac (se disponíveis neste ambiente)
 Quando o filesystem do Mac estiver acessível, atualizar também:
