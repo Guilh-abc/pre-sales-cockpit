@@ -133,4 +133,4 @@ Para refrescar dados locais: **Backup JSON** antes → **Importar carteira cruza
 
 ## Demo online
 
-https://guilhermeromio-netto-prog.github.io/pre-sales-cockpit/
+https://guilh-abc.github.io/pre-sales-cockpit/

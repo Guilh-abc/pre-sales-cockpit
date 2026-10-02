@@ -4,7 +4,7 @@
 Cockpit multi-projeto offline (HTML/CSS/JS) para pré-vendas: **visualizador consolidado + simulador** para apresentar e montar PTC. Dados no `localStorage` do navegador.
 
 ## Repositório
-- GitHub: https://github.com/guilhermeromio-netto-prog/pre-sales-cockpit
+- GitHub: https://github.com/Guilh-abc/pre-sales-cockpit
 - Cópia local: `Documents/pre-sales-cockpit`
 
 ## Como abrir
@@ -74,9 +74,9 @@ Sempre sincronizar estes dois caminhos quando houver alteração de projeto:
 
 ## Link público (GitHub Pages)
 
-Após o deploy: https://guilhermeromio-netto-prog.github.io/pre-sales-cockpit/
+Após o deploy: https://guilh-abc.github.io/pre-sales-cockpit/
 
-Repo: https://github.com/guilhermeromio-netto-prog/pre-sales-cockpit
+Repo: https://github.com/Guilh-abc/pre-sales-cockpit
 
 No site público use **Atualizar carteira** com o JSON (também em `data/PreSales_Cockpit_Carteira_Completa.json` no repo) se o seed embutido estiver desatualizado.
 
@@ -84,7 +84,7 @@ No site público use **Atualizar carteira** com o JSON (também em `data/PreSale
 
 1. **No site (recomendado no celular):** botão **Carregar carteira completa** — busca `data/PreSales_Cockpit_Carteira_Completa.json` no próprio GitHub Pages, sem arquivo local.
 2. **De arquivo:** **Atualizar de arquivo…** e escolha um Backup JSON ou a carteira completa no aparelho.
-3. **Download direto do JSON:** https://guilhermeromio-netto-prog.github.io/pre-sales-cockpit/data/PreSales_Cockpit_Carteira_Completa.json (salvar nos Arquivos e usar a opção 2).
+3. **Download direto do JSON:** https://guilh-abc.github.io/pre-sales-cockpit/data/PreSales_Cockpit_Carteira_Completa.json (salvar nos Arquivos e usar a opção 2).
 
 O seed embutido (Reset) é a carteira padrão do app; a carteira completa é o JSON versionado no repo.
 
